@@ -1,2 +1,2 @@
-# Dimensions-mode
+# Dimensions-mod
 Minecraft mod made using Java
